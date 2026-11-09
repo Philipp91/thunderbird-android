@@ -67,7 +67,7 @@ development, testing, and review.
 
 ### 🚀 Getting Started
 
-* **[Contribution Workflow](contributing/contribution-workflow.md)** – Step-by-step process: find an issue, fork, branch, commit, PR.
+* **[Contribution Workflow](/docs/contributing/contribution-workflow.md)** – Step-by-step process: find an issue, fork, branch, commit, PR.
 * **[Development Environment](contributing/development-environment.md)** – How to set up Android Studio, build, run, and debug the project.
 
 ### 🏗️ Development Practices
